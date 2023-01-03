@@ -7,7 +7,6 @@
 <p> Soy un desarrollador <strong>Full Stack</strong> con aproximadamente 5 años de experiencia. 
 </p>
 <p>Busco mejorar cada día como desarrollador con cursos (Udemy, Platzi) 👨‍🎓 o foros relacionados al tema. También el poder adaptarme a las nuevas tecnogías o procesos con la finalidad de aportar al proyecto en que me encuentre participando activamente.</p>
-<>
 
 <details><summary >Tecnologías 🚀...</summary>
 <ul>
