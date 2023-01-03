@@ -7,7 +7,7 @@
 <p> Soy un desarrollador <strong>Full Stack</strong> con aproximadamente 5 años de experiencia. 
 </p>
 <p>Busco mejorar cada día como desarrollador con cursos (Udemy, Platzi) 👨‍🎓 o foros relacionados al tema. También el poder adaptarme a las nuevas tecnogías o procesos con la finalidad de aportar al proyecto en que me encuentre participando activamente.</p>
-<div>
+<>
 
 <details><summary >Tecnologías 🚀...</summary>
 <ul>
@@ -36,6 +36,4 @@
 <p>En el proyecto <a href="https://github.com/JordyCA/crwn-clothing-udemy-ztm">crwn-clothing-udemy-ztm</a> se pueden ver mi progreso del día al día en acompañamiento de un curso de ZTM de Udemy. En el siguiente apartado se muestra el proyecto en vivo <a href="https://gregarious-centaur-584e10.netlify.app/">aquí</a>.</p>
 
 <h3>Contacto</h3>
-<div style="display: flex; justify-content: center; width: 10%;">
-<a href="https://www.linkedin.com/in/jordy-jesus-castro-avenda%C3%B1o-609087106/"><img src="./img/linke.png"  alt="icon-linkedibn"/></a>
-</div>
+<a href="https://www.linkedin.com/in/jordy-jesus-castro-avenda%C3%B1o-609087106/"><img src="./img/linke.png" width="10%" alt="icon-linkedibn"/></a>
