@@ -4,9 +4,9 @@
 
 <h3> Hola 👋, soy Jordy 😁 ...</h3>
 
-<p> Soy un desarrollador <strong>Full Stack</strong> con aproximadamente 5 años de experiencia. 
+<p> Un desarrollador <strong>Full Stack</strong> con aproximadamente 5 años de experiencia. 
 </p>
-<p>Busco mejorar cada día como desarrollador con cursos (Udemy, Platzi) 👨‍🎓 o foros relacionados al tema. También el poder adaptarme a las nuevas tecnogías o procesos con la finalidad de aportar al proyecto en que me encuentre participando activamente.</p>
+<p>Busco mejorar cada día siendo autodidacta 👨‍🎓, con información relacionados al tema o con cursos. También el poder adaptarme a las nuevas tecnogías o procesos con la finalidad de aportar al proyecto en que me encuentre participando activamente.</p>
 
 <details><summary >Tecnologías 🚀...</summary>
 <ul>
@@ -17,6 +17,7 @@
     <li>Wordpress, Woocommerce</li>
     <li>Php</li>
     <li>MySql</li>
+    <li>Java<li>
 </ul>
 </details>
 
