@@ -50,16 +50,14 @@
 </details>
 
 ## 🌟 Habilidades Blandas
-<details> <summary>💡 Ver ...</summary>
-    <ul>
-        <li>🔄 Alta capacidad de adaptación</li>
-        <li>🗣️ Comunicación efectiva</li>
-        <li>🤝 Trabajo en equipo</li>
-        <li>💪 Resiliencia y enfoque en resultados</li>
-        <li>🎯 Alto sentido de responsabilidad</li>
-        <li>🧠 Resolución de problemas</li>
-    </ul>
-</details>
+<ul>
+    <li>🔄 Alta capacidad de adaptación</li>
+    <li>🗣️ Comunicación efectiva</li>
+    <li>🤝 Trabajo en equipo</li>
+    <li>💪 Resiliencia y enfoque en resultados</li>
+    <li>🎯 Alto sentido de responsabilidad</li>
+    <li>🧠 Resolución de problemas</li>
+</ul>
 
 
 ## 🚀 Proyectos Personales
