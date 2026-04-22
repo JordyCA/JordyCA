@@ -1,40 +1,76 @@
-<h1 align="center">Bienvenido a mi Github</h1>
+# 👋 ¡Hola! Soy Jordy CA
 
+💻 Desarrollador Full Stack con más de 6 años de experiencia en la construcción de soluciones de software escalables, eficientes y mantenibles.
 
+🚀 Me apasiona la tecnología, el aprendizaje continuo y la mejora constante. Me caracterizo por ser autodidacta, orientado a resultados y enfocado en generar valor real en cada proyecto en el que participo.
 
-<h3> Hola 👋, soy Jordy 😁 ...</h3>
+## 🛠️ Tecnologías & Herramientas
 
-<p> Un desarrollador <strong>Full Stack</strong> con aproximadamente 5 años de experiencia. 
-</p>
-<p>Busco mejorar cada día siendo autodidacta 👨‍🎓, con información relacionados al tema o con cursos. También el poder adaptarme a las nuevas tecnogías o procesos con la finalidad de aportar al proyecto en que me encuentre participando activamente.</p>
-
-<details><summary >Tecnologías 🚀...</summary>
+<details> <summary>🔹 Backend ...</summary>
 <ul>
-    <li>Html</li>
-    <li>Css</li>
-    <li>Javascript</li>
-    <li>ReactJS</li>
-    <li>Wordpress, Woocommerce</li>
-    <li>Php</li>
-    <li>MySql</li>
-    <li>Java<li>
+    <li>☕ Java</li>
+    <li>🌱 Spring Boot</li>
+    <li>🧪 JUnit 5, Mockito</li>
+    <li>🐍 Python</li>
+    <li>🎯 Laravel</li>
 </ul>
 </details>
 
-<details><summary >Habilidades blandas 🌌...</summary>
-<ul>
-    <li>Capacidad de escuchar.</li>
-    <li>Toma de desiciones.</li>
-    <li>Perseverante.</li>
-    <li>Pensamiento análitico y crítico</li>
-    <li>Trabajo en equipo.</li>
-</ul>
+<details> <summary>🔹 Frontend ...</summary>
+    <ul>
+        <li>⚛️ React.js</li>
+        <li>🧩 JavaScript / TypeScript</li>
+        <li>🎨 HTML, CSS, Sass</li>
+    </ul>
 </details>
 
-<h3>Mis actividades recientes</h3>
-<p>Me encuentro mejorando mis habilidades con la tecnología de <strong>Reactjs</strong>.</p> 
-<p>En el proyecto <a href="https://github.com/JordyCA/crwn-clothing-udemy-ztm">crwn-clothing-udemy-ztm</a> se pueden ver mi progreso del día al día en acompañamiento de un curso de ZTM de Udemy. En el siguiente apartado se muestra el proyecto en vivo <a href="https://cwrudemyztmjordy.netlify.app/">aquí</a>.</p>
-<p>Estoy realizando un proyecto de una tienda de juguetes (se ecuentra en desarrollo) pero os dejo un adelanto por <a href="https://toystorejordyca.netlify.app/">aquí</a>.</p>
+<details> <summary>🔹 CMS & E-commerce ...</summary>
+    <ul>
+        <li>🐘 PHP</li>
+        <li>🛒 WordPress, WooCommerce</li>
+        <li>🎨 HTML, CSS, Sass</li>
+    </ul>
+</details>
 
-<h3>Contacto</h3>
-<a href="https://www.linkedin.com/in/jordy-jesus-castro-avenda%C3%B1o-609087106/"><img src="./img/linke.png" width="10%" alt="icon-linkedibn"/></a>
+<details> <summary>🔹 Bases de Datos ...</summary>
+    <ul>
+        <li>🐬 MySQL</li>
+        <li>🏢 Oracle DB</li>
+    </ul>
+</details>
+
+<details> <summary>🔹 Herramientas de Desarrollo ...</summary>
+    <ul>
+        <li>🐬 Workbench</li>
+        <li>🧑‍💻 Visual Studio Code</li>
+        <li>💡 IntelliJ IDEA</li>
+        <li>🐍 PyCharm</li>
+        <li>⚡ Fleet</li>
+    </ul>
+</details>
+
+## 🌟 Habilidades Blandas
+<details> <summary>💡 Ver ...</summary>
+    <ul>
+        <li>🔄 Alta capacidad de adaptación</li>
+        <li>🗣️ Comunicación efectiva</li>
+        <li>🤝 Trabajo en equipo</li>
+        <li>💪 Resiliencia y enfoque en resultados</li>
+        <li>🎯 Alto sentido de responsabilidad</li>
+        <li>🧠 Resolución de problemas</li>
+    </ul>
+</details>
+
+
+## 🚀 Proyectos Personales
+
+📚 Estos proyectos reflejan mi proceso de aprendizaje continuo, combinando cursos, práctica autodidacta y experiencia profesional:
+
+* 🛍️ <a href="https://github.com/JordyCA/crwn-clothing-udemy-ztm">crwn-clothing-udemy-ztm</a> - ⚛️ ReactJs - 🌐 <a href="https://cwrudemyztmjordy.netlify.app/">Demo</a>.
+
+
+## 📫 Contacto
+
+<p align="left"> <a href="https://www.linkedin.com/in/jordy-jesus-castro-avendano"> <img src="./img/linke.png" width="40px" alt="LinkedIn"/> </a> </p>
+
+
